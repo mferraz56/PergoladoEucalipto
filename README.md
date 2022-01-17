@@ -16,7 +16,7 @@
 [] adesivo trava rosca
 [] 3 suportes para viga
 [] 5 suportes para parede
-[] 18 parafusos com buxa p/parede
+[] 15 parafusos com buxa p/parede
 </h5>
     
 
