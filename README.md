@@ -7,15 +7,15 @@
 </h4>
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-- [] 5 mourão 5 a 7 cm, 3,2m
-- [] 1 mourão 5 a 7 cm, 4m
-- [] 3 mourão 5 a 7 cm, 1,2m
-- [] 6m de barra roscada
-- [] 56 arruelas e porcas 
-- [] adesivo trava rosca
-- [] 3 suportes para viga
-- [] 5 suportes para parede
-- [] 15 parafusos com buxa p/parede
+- [ ] 5 mourão 5 a 7 cm, 3,2m
+- [ ] 1 mourão 5 a 7 cm, 4m
+- [ ] 3 mourão 5 a 7 cm, 1,2m
+- [ ] 6m de barra roscada
+- [ ] 56 arruelas e porcas 
+- [ ] adesivo trava rosca
+- [ ] 3 suportes para viga
+- [ ] 5 suportes para parede
+- [ ] 15 parafusos com buxa p/parede
   
 
 
